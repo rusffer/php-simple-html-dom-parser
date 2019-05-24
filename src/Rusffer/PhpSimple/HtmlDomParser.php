@@ -1,5 +1,5 @@
 <?php
-namespace KubAT\PhpSimple;
+namespace Rusffer\PhpSimple;
 
 require 'lib'.DIRECTORY_SEPARATOR.'simple_html_dom.php';
 
